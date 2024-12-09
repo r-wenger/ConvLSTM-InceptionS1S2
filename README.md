@@ -25,7 +25,7 @@ This model is designed for satellite image segmentation. Ensure that your datase
 - **Sentinel-1 (S1)**: SAR image sequences.
 - **Contextual Data**: First S1 and S2 date (please refer to the paper for this part)
 
-Data preprocessing should ensure consistent spatial resolution and temporal alignment of inputs.
+Data preprocessing should ensure consistent spatial resolution and temporal alignment of inputs. This model was created for MultiSenGE dataset. You can also use [MultiSenNA](https://doi.theia.data-terra.org/ai4lcc/?lang=en) dataset.
 
 ## Model Requirements
 - **Input Dimensions**:
