@@ -6,7 +6,7 @@ ConvLSTM+InceptionS1S2 is a deep learning model designed for multimodal satellit
 - **ConvLSTM for Spatiotemporal Data**: Processes sequential data from Sentinel-2 and Sentinel-1 to capture temporal and spatial dependencies.
 - **Inception Module**: Extracts multi-scale features from contextual stack input.
 - **U-Net Architecture**: Performs final segmentation with high accuracy.
-- **Multimodal Data Integration**: Combines data from multiple sources (e.g., S1, S2, and stack input) for robust analysis.
+- **Multimodal Data Integration**: Combines data from multiple sources (e.g., S1, S2, and stack input) for LULC.
 
 ## Architecture
 The model consists of three main components:
